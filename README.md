@@ -1,4 +1,4 @@
-# Ramat's QA Portfolio
+# My QA Portfolio
 
 👋 Hi, I'm Ramat!  
 I'm transitioning from Tech Support to Quality Assurance (QA) Engineering, leveraging my troubleshooting and documentation skills to ensure software quality.
@@ -11,11 +11,11 @@ This repository showcases my QA journey, including manual testing, automated scr
 
 | Section | Description |
 |--------|-------------|
-| **/manual-testing** | Test plans, test cases, and sample bug reports |
-| **/automation** | Automated UI test scripts using Playwright/Selenium |
-| **/api-testing** | Postman collections and API test results |
-| **/ci-cd** | CI/CD workflow for running automated tests |
-| **/docs** | Supporting screenshots and documentation |
+| **/Manual-testing** | Test plans, test cases, and sample bug reports |
+| **/Automation** | Automated UI test scripts using Playwright/Selenium |
+| **/API-testing** | Postman collections and API test results |
+| **/CI/CD** | CI/CD workflow for running automated tests |
+| **/Docs** | Supporting screenshots and documentation |
 
 ---
 
